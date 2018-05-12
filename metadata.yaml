@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24917'
     url: http://www.gutenberg.org/2009/agents/24917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21833#Experiences-of-a-Dug-out-1914-1918
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-06-14'
 gutenberg_type: Text
